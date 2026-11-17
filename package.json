@@ -4,7 +4,7 @@
   "description": "Custom Python automation script workbench for vulnerability scanning and high-throughput log threat parsing.",
   "author": "Akhil Binu",
   "license": "MIT",
-  "homepage": "https://github.com/Akhil-Binu/pysec-studio#readme",
+  "homepage": "https://pysec-studio.vercel.app",
   "repository": {
     "type": "git",
     "url": "https://github.com/Akhil-Binu/pysec-studio.git"
