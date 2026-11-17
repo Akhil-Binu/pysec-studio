@@ -37,6 +37,7 @@ banned_threat_ips.sh
 banned_ips.sh
 
 # Environment & Secrets
+.npmrc
 .env
 .env.local
 .env.development.local
@@ -54,3 +55,5 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+.vercel

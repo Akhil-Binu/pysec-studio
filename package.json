@@ -1,10 +1,19 @@
 {
-  "name": "pysec-studio",
+  "name": "@akhil-binu/pysec-studio",
   "version": "1.0.0",
   "description": "Custom Python automation script workbench for vulnerability scanning and high-throughput log threat parsing.",
   "author": "Akhil Binu",
   "license": "MIT",
   "homepage": "https://pysec-studio.vercel.app",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "files": [
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Akhil-Binu/pysec-studio.git"
