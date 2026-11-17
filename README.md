@@ -3,6 +3,7 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-pysec--studio.vercel.app-06b6d4?logo=vercel&logoColor=white)](https://pysec-studio.vercel.app)
 [![Version](https://img.shields.io/badge/version-1.0.0-06b6d4.svg)](https://github.com/Akhil-Binu/pysec-studio/releases)
+[![GitHub Packages](https://img.shields.io/badge/pkg-@akhil--binu/pysec--studio-blue?logo=github)](https://github.com/Akhil-Binu/pysec-studio/packages)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Node](https://img.shields.io/badge/Node-18%2B-339933.svg?logo=node.js&logoColor=white)](https://nodejs.org/)
