@@ -9,6 +9,9 @@
 [![Node](https://img.shields.io/badge/Node-18%2B-339933.svg?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Code Style](https://img.shields.io/badge/Code%20Style-PEP%208-emerald.svg)](https://peps.python.org/pep-0008/)
 
+> 🚀 **Live Web Application**: [https://pysec-studio.vercel.app](https://pysec-studio.vercel.app)  
+> Explore the interactive vulnerability scanner generator, threat hunting log parser, real-time cyber sandbox simulator, and regex workbench directly in your browser without any setup.
+
 **PySecStudio** is a workbench and interactive code generation studio designed specifically for security engineers, penetration testers, DevSecOps practitioners, and SOC analysts to **author, configure, test, and deploy production-grade Python automation scripts** for:
 1. **Network & Web Application Vulnerability Scanning** (TCP port discovery, banner grabbing, SSL/TLS validation, defensive HTTP header auditing, sensitive config fuzzing, and CORS exploitation testing).
 2. **High-Throughput Threat Hunting & Log Parsing** (Streaming $O(1)$ memory ingestion, sliding-window brute-force correlation, SQLi/XSS/LFI signature detection, automated firewall IP banning, and MITRE ATT&CK mapping).
