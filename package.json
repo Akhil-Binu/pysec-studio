@@ -1,0 +1,52 @@
+{
+  "name": "pysec-studio",
+  "version": "1.0.0",
+  "description": "Custom Python automation script workbench for vulnerability scanning and high-throughput log threat parsing.",
+  "author": "Akhil Binu",
+  "license": "MIT",
+  "homepage": "https://github.com/Akhil-Binu/pysec-studio#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akhil-Binu/pysec-studio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akhil-Binu/pysec-studio/issues"
+  },
+  "keywords": [
+    "python",
+    "vulnerability-scanner",
+    "log-parser",
+    "cybersecurity",
+    "devsecops",
+    "siem",
+    "mitre-attack",
+    "security-tools",
+    "react",
+    "typescript"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/prismjs": "^1.26.6",
+    "lucide-react": "^1.74.0",
+    "prismjs": "^1.30.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "oxlint": "^1.90.0",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.6"
+  }
+}
